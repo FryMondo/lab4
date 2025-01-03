@@ -9,7 +9,7 @@
 git clone https://github.com/FryMondo/lab4.git
 ```
 ### Running project
-If you use IDE, open project and run ***Main.java***
+If you use IDE, open project and run ***TextProcessor.java***
 ### Running project via console
 Move to the directory
 ```
@@ -18,7 +18,7 @@ lab4/src
 Run next commands
 ```
 javac *.java
-java Main
+java TextProcessor
 ```
 ## Project Structure
 ### TextProcessor.java
